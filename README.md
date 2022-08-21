@@ -2,13 +2,13 @@
 
 🎉 Welcome to my Github!  I'm **Spiking Chen** 😃, a researcher from China.<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="200" title="Do what you like, and do it best!">
 
-🏫 I’m a master‘s student in **<a href="https://www.pku.edu.cn/">Peking University</a>**
+- 🏫 I’m a master‘s student in **<a href="https://www.pku.edu.cn/">Peking University</a>**
 
-🔭 Research Interest: *Spiking Neural Networks, Event Camera, High-level Vision Algorithm, MultiModal Machine Learning, Model Compression and Acceleration*    
+- 📫 How to reach me: **spikingchen@163.com**
 
-  
+- 🔭 Research Interest: *Spiking Neural Networks, Event Camera, High-level Vision Algorithm, MultiModal Machine Learning, Model Compression and Acceleration*    
 
-<br/>
+
 
 <br/>
 
@@ -59,7 +59,7 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>
 
 ### 👨‍💻 Github Stats
 
