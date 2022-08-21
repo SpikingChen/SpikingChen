@@ -1,22 +1,20 @@
 ## Hi there 👋
 
-🎉 Welcome to my Github!  I'm **Spiking Chen** 😃, a researcher from China.<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!">
+🎉 Welcome to my Github!  I'm **Spiking Chen** 😃, a researcher from China.<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="200" title="Do what you like, and do it best!">
 
-- 🏫 I’m a master‘s student in **<a href="https://www.pku.edu.cn/">Peking University</a>**
+🏫 I’m a master‘s student in **<a href="https://www.pku.edu.cn/">Peking University</a>**
 
-- 🔭 Research Interest: *Spiking Neural Networks, Event Camera, High-level Vision Algorithm, MultiModal Machine Learning, Model Compression and Acceleration*
-
-  
+🔭 Research Interest: *Spiking Neural Networks, Event Camera, High-level Vision Algorithm, MultiModal Machine Learning, Model Compression and Acceleration*    
 
   
 
-  
+<br/>
+
+<br/>
 
 ### ⚡ Technologies
 
-# 
-
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" align="center" width="33%">
 
 **Languages and Frameworks**
 
@@ -29,7 +27,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" align="center" width="33%">
 
 **Tools and Environments**  
 
@@ -47,7 +45,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" align="center" width="33%">
 
 **Design**  
 
@@ -65,8 +63,8 @@
 
 ### 👨‍💻 Github Stats
 
-<img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=SpikingChen&show_icons=true&theme=tokyonight" >
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=SpikingChen&show_icons=true&theme=tokyonight" >
 
 
 
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpikingChen&layout=compact">
+<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpikingChen&layout=compact">
