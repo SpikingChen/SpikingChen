@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: **spikingchen@163.com**
 
-- 🔭 Research Interest: *Spiking Neural Networks, Event Camera, High-level Vision Algorithm, MultiModal Machine Learning, Model Compression and Acceleration*    
+- 🔭 Research Interest: *Spiking Neural Networks, Event Camera, High-level Vision Algorithm, Multimodal Machine Learning, Model Compression and Acceleration*    
 
 
 
